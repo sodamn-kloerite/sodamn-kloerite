@@ -1,33 +1,34 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Greetings,+I'm+Asadullah+👋;Welcome+to+my+digital+realm!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Asadullah+👋;&center=true&size=30">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Code+Sorcerer;Software+Engineer;Bit+Whisperer;Logic+Architect;Syntax+Sommelier" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sodamn-kloerite&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Web+Developer;Next.js+Enthusiast&center=true&width=380&height=45">
 </p>
 
 ## 🧙‍♂️ About Me 
 
-- 🌱 Currently nurturing Web Applications from digital seeds
-- 👨‍💻 Crafting digital experiences with Next.js and other mystical frameworks
-- 🛠️ Skills: Effective communication, strong management, professionalism, and time-bending
-- ⚡ Hobbies: Pumping iron at the gym, football wizardry, and teleporting to new destinations
+- 🌱 Currently developing Web Applications with a focus on modern technologies
+- 👨‍💻 Working with Next.js and other cutting-edge frameworks
+- 🛠️ Skills: Effective communication, strong management, professionalism, and time management
+- ⚡ Hobbies: Gym enthusiast, football player, and avid traveler
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTkzNGYyODJiNjUyNzM2ZGJjM2MyNGZmOTBhNWEzMDAzNWUyNGVlZSZjdD1n/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
-
-## 🛠️ My Spellbook (Languages and Tools)
+## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,react,graphql,nodejs,mongodb,nextjs&theme=dark" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## 📊 Arcane Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sodamn-kloerite&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sodamn-kloerite&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -35,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodamn-kloerite&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-## 🌐 Connect with the Wizard
+## 🌐 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/asadullah-khaliq-612144169/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -46,13 +47,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sodamn-kloerite&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sodamn-kloerite&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <i>"The art of programming is the skill of controlling complexity." - Marijn Haverbeke</i>
 </p>
-
-<img src="https://github.com/sodamn-kloerite/sodamn-kloerite/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
