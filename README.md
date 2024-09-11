@@ -1,4 +1,4 @@
-# Greetings, I'm Asadullah 👋
+# The Mystical one is known as Asadullah 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Code+Sorcerer;Software+Engineer;Bit+Whisperer;Logic+Architect;Syntax+Sommelier" alt="Typing SVG" />
