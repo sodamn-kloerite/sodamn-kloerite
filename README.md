@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer 🚀
 
-- 🌱 Currently developing Mobile and Web Applications.
+- 🌱 Currently developing Web Applications.
 - 👨‍💻 Working on the latest frameworks for Web (Next.js) and App development.
 - 🛠️ Skills: Effective communication, strong management skills, professionalism, and time management.
 - ⚡ Hobbies: Gym, Football, and Traveling.
