@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Code+Sorcerer;Software+Engineer;Bit+Whisperer;Logic+Architect;Syntax+Sommelier" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/screen%20open.gif" alt="Dino Game" width="100%">
-</p>
+
 
 ## About Me 🚀
 - 🧙‍♂️ Casting spells in various programming languages
@@ -47,7 +45,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sodamn-kloerite&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/screen%20open.gif" alt="Dino Game" width="100%">
+</p>
 <p align="center">
   <i>"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke</i>
 </p>
