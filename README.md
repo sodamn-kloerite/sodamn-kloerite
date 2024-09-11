@@ -46,7 +46,7 @@
   <img src="https://komarev.com/ghpvc/?username=sodamn-kloerite&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/screen%20open.gif" alt="Dino Game" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Dino Game" width="100%">
 </p>
 <p align="center">
   <i>"Any sufficiently advanced technology is indistinguishable from magic." - Arthur C. Clarke</i>
