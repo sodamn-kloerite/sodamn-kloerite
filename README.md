@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Code+Sorcerer;Software+Engineer;Bit+Whisperer;Logic+Architect;Syntax+Sommelier" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Game" width="100%">
+</p>
+
 ## About Me 🚀
 - 🧙‍♂️ Casting spells in various programming languages
 - 🌱 Currently nurturing Web Applications from digital seeds
@@ -28,7 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sodamn-kloerite&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sodamn-kloerite&theme=radical" alt="GitHub Streak" />
 </p>
