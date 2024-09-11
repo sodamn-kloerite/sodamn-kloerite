@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="Dino Game" width="100%">
+  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/screen%20open.gif" alt="Dino Game" width="100%">
 </p>
 
 ## About Me 🚀
